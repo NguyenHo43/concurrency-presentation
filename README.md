@@ -25,4 +25,4 @@ Two threads (Bomb A and Bomb B) share a counter and demonstrate:
 > Concurrency makes programs faster, but correctness always comes first.
 
 ## 🚀 Author
-Your Name
+Nguyen Ho
